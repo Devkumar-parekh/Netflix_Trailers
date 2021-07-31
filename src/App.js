@@ -16,7 +16,7 @@ function ncard(val){
 }
 
 function App(){
-  let i=0;
+
   return(
     <>
       
