@@ -7,3 +7,9 @@ body{
     padding: 2%;
     background-color: black;
 }
+.line{
+    display:grid;
+    grid-template-columns:  50% 50%;
+    grid-gap: 1%;
+    
+}
